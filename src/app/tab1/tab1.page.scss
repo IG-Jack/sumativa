@@ -1,0 +1,38 @@
+ion-content {
+    --background: url('../../assets/logo.svg') center center / cover no-repeat;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  .botton {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    justify-content: center;
+  }
+  
+  ion-button {
+    width: 140%;
+    height: 100%;
+    padding-top:30px;
+    margin-left:-20% ;
+    --border-radius: 300px;
+  }
+  .sub{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  background-color:rgb(0, 0, 0);
+  }
+  .boton1{
+  
+  }
